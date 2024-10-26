@@ -78,4 +78,13 @@ Bu proje, C# programlama dilinde ***ADO.NET*** kullanarak veri tabanı işlemler
 - **Veritabanı Bağlantısı**: SQL Server veritabanına bağlantı sağlanarak, belirli bir tabloya sorgu gönderilmiştir. 
 -----------------------------------------------------------------------
 
+## 🌕 PROJE 10 - VERİ TABANI CRUD İŞLEMLERİ
+
+Bu proje, C# programlama dilinde ***ADO.NET*** kullanarak temel veri tabanı işlemlerinin nasıl gerçekleştirileceğini gösteren bir uygulamadır. Kullanıcıların kategori ve ürün ekleme, listeleme, silme ve güncelleme işlemlerini yapmalarına olanak tanıyan bir arayüze sahiptir.
+
+### 🔧 Uygulanan C# Konuları
+- **ADO.NET Kullanımı**: Veri tabanı bağlantısı, sorgu yürütme ve sonuçların işlenmesi için ADO.NET kütüphanesi kullanılmıştır.
+- **CRUD İşlemleri**: SQL Server veri tabanında tabloya veri ekleme (Create), listeleme (Read), güncelleme (Update) ve silme (Delete) işlemleri yapılmıştır.
+-----------------------------------------------------------------------
+
 Bu projeler, katılımcıların C# dilindeki becerilerini geliştirmelerine yardımcı olmakta ve gerçek dünya uygulamalarında kullanılabilecek pratik bilgiler sunmaktadır. Her hafta yeni projeler eklenerek öğrenim süreci desteklenecektir, bu yüzden repository'i takip etmeyi unutmayın! 🎉
